@@ -1,5 +1,8 @@
 # the data folder
 
+# junk notebook for testing
+DVDMAN_ARCHIVE.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
